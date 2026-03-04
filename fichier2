@@ -1,0 +1,9 @@
+deuxieme test 
+git add fichier2
+git log
+git status
+git commit -m "Deuxieme commit"
+git log
+git status
+
+

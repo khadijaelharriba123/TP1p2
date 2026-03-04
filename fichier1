@@ -1,0 +1,8 @@
+Premier test
+git add fichier1
+git log
+git status
+git commit -m "Premier commit"
+git log
+git status
+
